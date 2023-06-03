@@ -1,0 +1,2 @@
+State: Start, Stack: # -> Input: 1, State: q5, Stack: 1,# -> Input: 1, State: q8, Stack: 1,1,# -> Input: 1, State: q11, Stack: 1,1,1,# -> Input: 1, State: q5, Stack: 1,1,1,1,# -> Input: 1, State: q8, Stack: 1,1,1,1,1,# -> Input: 0, State: q8, Stack: 1,1,# -> Input: 0, State: q4, Stack: 1,# -> Input: 1, State: q1, Stack: # -> Input: 0, State: q2, Stack: 1,1,1,# -> Input: 0, State: q2, Stack: 1,1,1,1,1,1,# -> 
+True
