@@ -7,7 +7,6 @@ C:\Users\svyatoslav\Desktop\Algorithm Complexity Theory\AlgorithmComplexityTheor
 C:\Users\svyatoslav\Desktop\Algorithm Complexity Theory\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.exe
 C:\Users\svyatoslav\Desktop\Algorithm Complexity Theory\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.pdb
 C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.csproj.AssemblyReference.cache
-C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.csproj.SuggestedBindingRedirects.cache
 C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.csproj.ResolveComReference.cache
 C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.csproj.CoreCompileInputs.cache
 C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\AlgorithmComplexityTheory\obj\Debug\AlgorithmComplexityTheory.exe

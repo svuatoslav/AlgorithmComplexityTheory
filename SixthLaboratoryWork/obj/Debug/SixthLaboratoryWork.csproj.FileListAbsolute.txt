@@ -1,0 +1,16 @@
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\bin\Debug\SixthLaboratoryWork.exe.config
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\bin\Debug\SixthLaboratoryWork.exe
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\bin\Debug\SixthLaboratoryWork.pdb
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.csproj.AssemblyReference.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.csproj.SuggestedBindingRedirects.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\MainWindow.g.cs
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\App.g.cs
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork_MarkupCompile.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork_MarkupCompile.lref
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\MainWindow.baml
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.g.resources
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.Properties.Resources.resources
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.csproj.GenerateResource.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.csproj.CoreCompileInputs.cache
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.exe
+C:\Users\svyatoslav\Desktop\магистратура\1 курс 2 семестр\Теория сложности алгоритмов\SixthLaboratoryWork\obj\Debug\SixthLaboratoryWork.pdb
